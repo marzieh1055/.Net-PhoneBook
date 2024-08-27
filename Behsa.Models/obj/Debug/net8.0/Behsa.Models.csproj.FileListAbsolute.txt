@@ -1,0 +1,11 @@
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\bin\Debug\net8.0\Behsa.Models.deps.json
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\bin\Debug\net8.0\Behsa.Models.dll
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\bin\Debug\net8.0\Behsa.Models.pdb
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\obj\Debug\net8.0\Behsa.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\obj\Debug\net8.0\Behsa.Models.AssemblyInfoInputs.cache
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\obj\Debug\net8.0\Behsa.Models.AssemblyInfo.cs
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\obj\Debug\net8.0\Behsa.Models.csproj.CoreCompileInputs.cache
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\obj\Debug\net8.0\Behsa.Models.dll
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\obj\Debug\net8.0\refint\Behsa.Models.dll
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\obj\Debug\net8.0\Behsa.Models.pdb
+C:\Users\marzieh\Desktop\New folder\Behsa.Models\obj\Debug\net8.0\ref\Behsa.Models.dll
